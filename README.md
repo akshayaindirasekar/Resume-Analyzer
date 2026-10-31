@@ -8,7 +8,7 @@
 
 🔗 **Application:** https://resume-analyzer-v6la.onrender.com
 
-📂 **GitHub Repository:** https://github.com/GVethaNarayanan/Resume-Analyzer
+📂 **GitHub Repository:** https://github.com/akshayaindirasekar/Resume-Analyzer
 
 ---
 
@@ -137,7 +137,7 @@ Resume-Analyzer/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/GVethaNarayanan/Resume-Analyzer.git
+git clone https://github.com/akshayaindirasekar/Resume-Analyzer.git
 ```
 
 ### Install dependencies
@@ -189,9 +189,9 @@ This project helped explore:
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
-**Vetha Narayanan**
+**Akshaya Indirasekar**
 
 🎓 B.Tech Information Technology  
 📍 Chennai Institute of Technology

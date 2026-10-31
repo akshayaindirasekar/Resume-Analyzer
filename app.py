@@ -107,7 +107,7 @@ demo = gr.Interface(
     description="""
 Upload your resume, select a job role, and receive an ATS score with personalized feedback.
 
-Developed by **Vetha Narayanan**
+Developed by **Akshaya Indirasekar**
 """,
 
     theme=gr.themes.Soft()
